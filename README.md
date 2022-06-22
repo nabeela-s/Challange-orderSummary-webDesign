@@ -19,7 +19,7 @@ Users should be able to:
 ### Links
 
 - Solution URL: (https://github.com/nabeela-s/Challange-orderSummary-webDesign.git)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Live Site URL: (https://reliable-cactus-7b5ff5.netlify.app/)
 
 ## My process
 
